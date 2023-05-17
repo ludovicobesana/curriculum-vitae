@@ -10,14 +10,14 @@
 ### Full Stack Development
 
 - Frontend: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/)
-- Frameworks: [Astro](https://astro.build/), [React](https://reactjs.org/), [Next.js](https://nextjs.org/),[Jekyll](https://jekyllrb.com/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
+- Frameworks: [Astro](https://astro.build/), [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Jekyll](https://jekyllrb.com/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
 - Backend: [Node.js](https://nodejs.org/), [PHP](https://www.php.net/)
 - Databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 - Programming: [Python](https://www.python.org/), [YAML](https://yaml.org/), [Java](https://www.java.com/), [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ### Testing
 
-- Testing Frameworks: [Robot Framework](https://robotframework.org/), [Playwright](https://playwright.dev/), [Cypress](https://www.cypress.io/), [Katalium](https://www.katalon.com/katalium/), [Selenium](https://www.selenium.dev/)
+- Testing Frameworks: [Robot Framework](https://robotframework.org/), [Playwright](https://playwright.dev/), [Cypress](https://www.cypress.io/), [Katalium](https://katalon.com/resources-center/blog/katalium-introduction), [Selenium](https://www.selenium.dev/)
 - Tools: [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [JSONPath](https://jsonpath.com/), [Appium](https://appium.io/), [JMeter](https://jmeter.apache.org/), [k6](https://k6.io/), [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [Xray](https://www.getxray.app/), [Screaming Frog](https://www.screamingfrog.co.uk/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/), [ResponsivelyApp](https://responsively.app/)
 
 ### Tools
