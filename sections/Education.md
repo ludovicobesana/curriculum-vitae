@@ -1,5 +1,6 @@
 # Education
 
+- **Computer engineering** from **Università degli Studi "Guglielmo Marconi"**, Rome, Italy (2023 - In progress)
 - **Online Bootcamp** from **Bootcamp.dev**, Online (2022 - In progress)
 - **UX Design Bootcamp** from **Eye Studios**, Online (2022)
 - **Master in Blockchain and Cryptocurrency** from **MasterZ**, Online (2022)
