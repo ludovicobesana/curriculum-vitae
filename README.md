@@ -9,10 +9,11 @@ The CV is structured as follows:
 - [Work Experience](/sections/Work-Experience.md)
 - [Skills](/sections/Skills.md)
 - [Talks and Presentations](/sections/Talks.md)
+- [Publications](/sections/Publications.md) 
 - [References](/sections/References.md)
 <!-- - [Certifications](/sections/Certifications.md) -->
 <!-- - [Projects](/sections/Projects.md) -->
-<!-- - [Publications](/sections/Publications.md) -->
+
 
 Feel free to [reach out](mailto:info@ludovicobesana.com) if you have any questions or opportunities. Thank you for your time!
 
