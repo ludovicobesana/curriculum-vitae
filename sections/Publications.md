@@ -1,7 +1,7 @@
 # Publications
 
-- [Title of the Publication](Link to the Publication) - Published in [Journal/Conference] - [Year]
-- [Title of the Publication](Link to the Publication) - Published in [Journal/Conference] - [Year]
+- [Road to Dev: Come affrontare i colloqui di lavoro nel settore tech](https://www.codemotion.com/magazine/it/dev-community/road-to-dev-come-affrontare-i-colloqui-di-lavoro-nel-settore-tech/) - Published in [Codemotion Magazine](https://www.codemotion.com/magazine) - 2023
+
 
 ---
 
