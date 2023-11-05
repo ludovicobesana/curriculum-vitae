@@ -9,15 +9,15 @@
 
 ### Full Stack Development
 
-- Frontend: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/)
-- Frameworks: [Astro](https://astro.build/), [React](https://reactjs.org/), [Next.js](https://nextjs.org/),
+- Frontend: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Tailwind CSS](https://tailwindcss.com/)
+- Frameworks: [Astro](https://astro.build/), [React](https://reactjs.org/), [Next.js](https://nextjs.org/)
 - Backend: [Node.js](https://nodejs.org/),
 - Databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 - Programming: [Python](https://www.python.org/), [YAML](https://yaml.org/)
 
 ### Testing
 
-- Testing Frameworks: [Robot Framework](https://robotframework.org/), [Playwright](https://playwright.dev/), 
+- Testing Frameworks: [Robot Framework](https://robotframework.org/), [Playwright](https://playwright.dev/) 
 - Tools: [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [JSONPath](https://jsonpath.com/), [Appium](https://appium.io/), [JMeter](https://jmeter.apache.org/), [k6](https://k6.io/), [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [Xray](https://www.getxray.app/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/), [ResponsivelyApp](https://responsively.app/)
 
 ### Tools
