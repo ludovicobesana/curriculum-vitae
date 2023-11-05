@@ -14,6 +14,7 @@
 - Backend: [Node.js](https://nodejs.org/),
 - Databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 - Programming: [Python](https://www.python.org/), [YAML](https://yaml.org/)
+- SSG: [Docusaurus](https://docusaurus.io/)
 
 ### Testing
 
@@ -37,9 +38,10 @@
 #### Full Stack Development
 
 - Frontend: [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/)
-- Frameworks: [Jekyll](https://jekyllrb.com/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
+- Frameworks: [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
 - Backend: [PHP](https://www.php.net/)
 - Programming: [Java](https://www.java.com/), [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- SSG: [Jekyll](https://jekyllrb.com/)
 
 #### Testing
 
