@@ -1,6 +1,16 @@
 # Talks and Presentations
+
+### Road To Dev - Costruire un brand personale online
+**Codemotion Conference Milan** - In presence - 24 October 2023
+- In this episode of Road To Dev, we dive into the world of online personal branding in the tech sector. We'll examine how to create a consistent and engaging digital identity across various channels, such as GitHub, LinkedIn, and your personal blog. We'll discuss positioning yourself as an expert in your field, choosing a niche, and the importance of quality content.Effective strategies and best practices for building a brand that stands out from the crowd and helps you create career opportunities will be shared.
+
+
+- [Talk page](https://community.codemotion.com/codemotion-italy/meetups/road-to-dev---costruire-un-brand-personale-online)
+
+
+
 ### Leveraging Automated Testing Data to Enhance User Experience
-**Codemotion** - In presence - 10 October 2023
+**Intersection Conference** - In presence - 10 October 2023
 - In the pursuit of exceptional user experiences, organizations often overlook a valuable resource: the data generated from automated testing.
 This talk explores the untapped potential of leveraging automated testing data to enhance user experience. We will discuss techniques for extracting insights from various types of automated tests and demonstrate how organizations have successfully used this data to address UX issues. Attendees will leave with practical strategies to integrate automated testing data into their UX design and development processes, enabling data-driven decision-making and measurable improvements in UX quality.
 - [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)

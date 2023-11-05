@@ -1,6 +1,8 @@
 # Projects
 
-### [Project Name]
+Projects are available upon request.
+
+<!-- ### [Project Name]
 - Project description
 - Technologies used
 - [Link to the project](#)
@@ -8,7 +10,7 @@
 ### [Project Name]
 - Project description
 - Technologies used
-- [Link to the project](#)
+- [Link to the project](#) -->
 
 ---
 

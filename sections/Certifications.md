@@ -1,6 +1,8 @@
 # Certifications
 
-- [Certification Name](link to certification)
+Yet to be filled
+
+<!-- - [Certification Name](link to certification) -->
 
 
 
