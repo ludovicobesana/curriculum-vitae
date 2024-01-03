@@ -10,7 +10,7 @@
 - Provided training and coaching to team members.
 
 ### QA Analyst & QA Automation Engineer
-**Abstract** - Milan, Italy (January 2021 - April 2022)
+**Abstract** - Milan, Italy (June 2021 - April 2022)
 - Worked on projects for companies such as Arnette, Ray-Ban, and Oakley.
 - Wrote test cases, performed manual tests, and reported and tracked bugs.
 - Automated testing using Robot Framework and a customized Java framework with Katalium & TestNG.
