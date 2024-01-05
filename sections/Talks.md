@@ -1,5 +1,9 @@
 # Talks and Presentations
 
+### Full Stack Recruiter #2 - QA / Testing 
+**TomorrowDevs** - Online - 22 January 2024
+- [Get Ticket](https://www.tomorrowdevs.com/corso-fullstack-recruiter/)
+
 ### Code, Creativity and Career: A journey through the world of Web Development
 **BitCamp** - Online - 13 December 2023
 - Webinar to delve into the dynamic world of web development. Ludovico will guide you through his journey from a hobbyist to a web professional, sharing his experiences, key technologies, and essential tools. Discover strategies for tackling technical interviews, building an impressive portfolio, and understanding the significance of open source and networking. This session is perfect for aspiring professionals seeking to broaden their skills and knowledge in web development.
@@ -18,7 +22,7 @@
 ### Full Stack Recruiter #1 - QA / Testing - Infiltrate in QA: Recruitment Mission
 **TomorrowDevs** - Online - 30 October 2023
 - In this talk, we delves into the world of Quality Assurance, highlighting its pivotal role in product development and user satisfaction. Designed for the Full Stack Recruiter course, the session illuminates various aspects of QA, from testing pyramids to essential skills, and navigates through the nuances of QA roles, offering vital insights for technical recruiters. Attendees will gain a comprehensive understanding of the QA landscape, equipping them with knowledge to effectively identify and recruit top talent in this critical field.
-- [Get Ticket](https://www.tomorrowdevs.com/corso-fullstack-recruiter/)
+- No recording available
 
 ### Road To Dev - Building a personal brand online
 **Codemotion Conference Milan** - In presence - 24 October 2023
