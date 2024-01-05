@@ -3,17 +3,17 @@
 ### Code, Creativity and Career: A journey through the world of Web Development
 **BitCamp** - Online - 13 December 2023
 - Webinar to delve into the dynamic world of web development. Ludovico will guide you through his journey from a hobbyist to a web professional, sharing his experiences, key technologies, and essential tools. Discover strategies for tackling technical interviews, building an impressive portfolio, and understanding the significance of open source and networking. This session is perfect for aspiring professionals seeking to broaden their skills and knowledge in web development.
-- [Talk page](https://ld.bitcamp.it/)
+- [Link to video](https://www.facebook.com/bitcamp.it/videos/1166856111368102)
 
 ### Road to Dev - Remote work and productivity
 **Codemotion** - Online - 30 November 2023
 - In this episode of Road To Dev, we explore the dynamics of remote work in the tech industry. The discussion will focus on tools and strategies for effective remote communication, setting up a productive work environment, and avoiding the pitfalls of procrastination
-- [Talk page](https://community.codemotion.com/codemotion-italy/meetups/road-to-dev---lavoro-da-remoto-e-produttivit)
+- [Link to video](https://talks.codemotion.com/road-to-dev-lavoro-da-remoto-e-produttiv)
 
 ### Playwright Under the Microscope
 **MilanoJS** - In presence - 21 November 2023
 - In this talk, explore Playwright, Microsoft's innovative tool for end-to-end testing. It distinguishes itself with multi-browser interaction and a unified API, surpassing traditional tools like Selenium. The talk covers Playwright's ability to simulate complex user interactions and support SPA and PWA testing, highlighting its real-world applications in e-commerce and integration with Storybook for enhanced visual testing. Practical aspects, including setup and advanced techniques, are discussed, offering a comprehensive view of Playwright's role in modern web application testing.
-- [Get Ticket](https://www.eventbrite.it/e/biglietti-milano-js-playwright-al-microscopio-753665252057)
+- [Link to video](https://youtu.be/llqt1zOGPHg)
 
 ### Full Stack Recruiter #1 - QA / Testing - Infiltrate in QA: Recruitment Mission
 **TomorrowDevs** - Online - 30 October 2023
