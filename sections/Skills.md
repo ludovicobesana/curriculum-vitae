@@ -27,9 +27,14 @@
 - IDEs/Editors: [VSCode](https://code.visualstudio.com/), [IntelliJ](https://www.jetbrains.com/idea/)
 - Operating Systems: [Linux](https://www.linux.org/), [Windows](https://www.microsoft.com/en-us/windows), [OSX](https://www.apple.com/macos/)
 - Platforms: [Wordpress](https://wordpress.com/), [Shopify](https://www.shopify.com/)
-- Version Control: [Git](https://git-scm.com/), [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), [GitKraken](https://www.gitkraken.com/), [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/)
+- Version Control: [Git](https://git-scm.com/), [GitKraken](https://www.gitkraken.com/), [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/)
 - CI/CD: [Docker](https://www.docker.com/), [Azure Pipelines](https://azure.microsoft.com/it-it/products/devops/pipelines)
 - Project Management: [Trello](https://trello.com/), [Jira](https://www.atlassian.com/software/jira), [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+
+### Methodologies
+
+- Project Management and Collaboration: [Lean Software Development](https://www.geeksforgeeks.org/lean-software-development-lsd/), [Agile](https://agilemanifesto.org/iso/it/manifesto.html), [Scrum](https://www.scrum.org/), [Cross-Functional Teams](https://www.atlassian.com/work-management/project-collaboration/cross-functional-teams)
+- Development:  [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), [Pair Programming](https://www.techtarget.com/searchsoftwarequality/definition/Pair-programming), [QAOps](https://www.browserstack.com/guide/what-is-qaops), [DevOps](https://about.gitlab.com/topics/devops/), [BDD](https://it.wikipedia.org/wiki/Behavior-driven_development), [Continuous Integration/Continuous Deployment (CI/CD)](https://www.redhat.com/it/topics/devops/what-is-ci-cd), [Blameless Postmortems](https://sre.google/sre-book/postmortem-culture/), [UAT](https://www.guru99.com/user-acceptance-testing.html)
 
 ---
 
