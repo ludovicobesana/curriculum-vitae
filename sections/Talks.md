@@ -1,5 +1,10 @@
 # Talks and Presentations
 
+### Optimizing Performance: Modern Load Testing with K6
+**React JS Milano** - In presence - 28 March 2024
+- Dominate performance tests using K6. This talk is designed to unlock the potential of K6 in the field of load testing, ensuring that your applications can withstand real-world scenarios and are ready for any challenge.
+- [Link to video](https://youtu.be/dmgH5EsvWJw)
+
 ### Full Stack Recruiter #2 - QA / Testing 
 **TomorrowDevs** - Online - 22 January 2024
 - [Get Ticket](https://www.tomorrowdevs.com/corso-fullstack-recruiter/)
