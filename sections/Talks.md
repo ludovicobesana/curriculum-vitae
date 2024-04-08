@@ -67,6 +67,11 @@ This talk explores the untapped potential of leveraging automated testing data t
 - "Mastermind Testing" is a collaborative meeting in which I shared my personal experience in the world of QA, exploring the landscape of software testing from manual to automated. We discussed the various types of tests, the transition from developer to QA Engineer, key roles within QA, and the use of the Robot Framework for automation. The goal is to provide practical insights and strategies to improve quality and efficiency in software testing.
 - No recording available
 
+### Coding Bunker Online Event
+**Coding Bunker** - Online - April 2021
+- In this talk, attendees were immersed in the essentials of building or managing a community in the tech sector. The session provided a thorough overview of what it entails to forge a shared space for both enthusiasts and professionals. Emphasizing effective methods and cautioning against common missteps, the event served as a crucial guide for anyone looking to cultivate a vibrant tech community. 
+- No recording available
+
 ### Panel Online - The business, this unknown: a bridge between dev and customer
 **Codemotion** - Online - March 2021
 - The relationship between customer-project-development is always tiring due to too many heads and different skills involved. A methodology of co-creation between dev, testing, business that outlines the development phases, makes the testing phase easier and can be traced back to the customer's needs.
