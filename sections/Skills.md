@@ -19,7 +19,7 @@
 ### Testing
 
 - Testing Frameworks: [Robot Framework](https://robotframework.org/), [Playwright](https://playwright.dev/) 
-- Tools: [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [JSONPath](https://jsonpath.com/), [Appium](https://appium.io/), [JMeter](https://jmeter.apache.org/), [k6](https://k6.io/), [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [Xray](https://www.getxray.app/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/), [ResponsivelyApp](https://responsively.app/)
+- Tools: [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [JSONPath](https://jsonpath.com/), [Appium](https://appium.io/), [JMeter](https://jmeter.apache.org/), [k6](https://k6.io/), [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [Xray](https://www.getxray.app/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/), [ResponsivelyApp](https://responsively.app/), [TestRail](https://www.testrail.com/)
 
 ### Tools
 
