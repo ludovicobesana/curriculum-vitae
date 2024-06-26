@@ -1,5 +1,22 @@
 # Talks and Presentations
 
+### Integrating Accessibility in Automation: A Hands-On Playwright Workshop
+**Intersection Conference** - In presence - 4 October 2024
+- In this workshop, we will dive hands-on into the world of automated accessibility testing using Playwright. Participants will learn how to implement accessibility checks into their testing routines, ensuring that digital products are usable and inclusive for all users. The workshop will cover practical exercises, setup configurations, and reporting strategies to embed accessibility into the heart of your QA processes.
+- [Workshop page](https://www.intersection-conference.eu/items/ludovico-besana/)
+- [Get Ticket](https://pretix.eu/HintoGroup/Intersection/)
+
+### Testing for Inclusivity: QA Techniques for Diverse User Experience
+**Intersection Conference** - In presence - 3 October 2024
+- This session will highlight how QA teams can make testing processes inclusive for a diverse user base, using the latest research and technologies. Participants will witness lines of code and demos demonstrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a perspective on technology shaped by inclusivity, promoting a future where diverse user experiences guide development and QA processes.
+- [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)
+- [Get Ticket](https://pretix.eu/HintoGroup/Intersection/)
+
+### Embracing the shift: QA's evolution in the SRE and SLO landscape
+**PlatformCon2024** - Online - 12 June 2024
+- The advent of SRE and the strategic implementation of SLOs are reshaping the traditional roles of Quality Assurance (QA) professionals. This unified talk explores the multifaceted evolution of QA roles in the context of SRE practices, highlighting the pivotal shift towards a more integrated, efficient, and reliability-focused approach to software development. Attendees will gain insights into how SLOs serve as a foundation for this transformation, promoting a deeper collaboration between QA, engineering, and operations teams, and fostering a culture of continuous improvement and automation.
+- [Link to video](https://youtu.be/M9-1KqQ2q6I)
+
 ### Optimizing Performance: Modern Load Testing with K6
 **React JS Milano** - In presence - 28 March 2024
 - Dominate performance tests using K6. This talk is designed to unlock the potential of K6 in the field of load testing, ensuring that your applications can withstand real-world scenarios and are ready for any challenge.
@@ -39,8 +56,7 @@
 **Intersection Conference** - In presence - 10 October 2023
 - In the pursuit of exceptional user experiences, organizations often overlook a valuable resource: the data generated from automated testing.
 This talk explores the untapped potential of leveraging automated testing data to enhance user experience. We will discuss techniques for extracting insights from various types of automated tests and demonstrate how organizations have successfully used this data to address UX issues. Attendees will leave with practical strategies to integrate automated testing data into their UX design and development processes, enabling data-driven decision-making and measurable improvements in UX quality.
-- [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)
-- [Get Ticket](https://www.eventbrite.it/e/biglietti-intersection-design-development-2023-438894634667)
+- [Link to video](https://youtu.be/xbOrRp957RY)
 
 ### Road To Dev: How to better manage your time
 **Codemotion** - Online - June 2023
