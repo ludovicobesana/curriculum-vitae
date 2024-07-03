@@ -11,7 +11,7 @@ The CV is structured as follows:
 - [Talks and Presentations](/sections/Talks.md)
 - [Publications](/sections/Publications.md) 
 - [References](/sections/References.md)
-<!-- - [Certifications](/sections/Certifications.md) -->
+- [Certifications](/sections/Certifications.md)
 <!-- - [Projects](/sections/Projects.md) -->
 
 
