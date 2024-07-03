@@ -1,10 +1,6 @@
 # Certifications
 
-Yet to be filled
-
-<!-- - [Certification Name](link to certification) -->
-
-
+- [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer)
 
 ---
 
