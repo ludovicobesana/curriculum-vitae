@@ -1,7 +1,10 @@
 # Work Experience
 
+### Senior Test Engineer
+**Nearform** - Milan, Italy (April 2024 - Present)
+
 ### QA Engineer
-**Banca AideXa** - Milan, Italy (April 2022 - Present)
+**Banca AideXa** - Milan, Italy (April 2022 - April 2024)
 - Established and led the company's QA department.
 - Created and maintained test automation and API testing.
 - Implemented test strategies and product test plans.
