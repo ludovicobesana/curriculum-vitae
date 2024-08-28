@@ -1,5 +1,9 @@
 # Talks and Presentations
 
+### Accelerate Web Excellence: Master Shift-Left Testing
+**NgRome** - In presence - 28 September 2024
+- [Coming Soon](https://www.linkedin.com/company/ngromeconf)
+
 ### Integrating Accessibility in Automation: A Hands-On Playwright Workshop
 **Intersection Conference** - In presence - 4 October 2024
 - In this workshop, we will dive hands-on into the world of automated accessibility testing using Playwright. Participants will learn how to implement accessibility checks into their testing routines, ensuring that digital products are usable and inclusive for all users. The workshop will cover practical exercises, setup configurations, and reporting strategies to embed accessibility into the heart of your QA processes.
