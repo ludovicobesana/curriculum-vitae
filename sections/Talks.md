@@ -1,20 +1,18 @@
 # Talks and Presentations
 
-### Accelerate Web Excellence: Master Shift-Left Testing
-**NgRome** - In presence - 28 September 2024
-- [Coming Soon](https://www.linkedin.com/company/ngromeconf)
-
-### Integrating Accessibility in Automation: A Hands-On Playwright Workshop
-**Intersection Conference** - In presence - 4 October 2024
-- In this workshop, we will dive hands-on into the world of automated accessibility testing using Playwright. Participants will learn how to implement accessibility checks into their testing routines, ensuring that digital products are usable and inclusive for all users. The workshop will cover practical exercises, setup configurations, and reporting strategies to embed accessibility into the heart of your QA processes.
-- [Workshop page](https://www.intersection-conference.eu/items/ludovico-besana/)
-- [Get Ticket](https://pretix.eu/HintoGroup/Intersection/)
-
 ### Testing for Inclusivity: QA Techniques for Diverse User Experience
 **Intersection Conference** - In presence - 3 October 2024
 - This session will highlight how QA teams can make testing processes inclusive for a diverse user base, using the latest research and technologies. Participants will witness lines of code and demos demonstrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a perspective on technology shaped by inclusivity, promoting a future where diverse user experiences guide development and QA processes.
 - [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)
 - [Get Ticket](https://pretix.eu/HintoGroup/Intersection/)
+
+### Accelerate Web Excellence: Master Shift-Left Testing
+**NgRome** - In presence - 28 September 2024
+- No recording available
+
+### From Manual to Automated: Transitioning to Test Automation
+**Fuori Di Test 2024** - In presence - 21 September 2024
+- No recording available
 
 ### Embracing the shift: QA's evolution in the SRE and SLO landscape
 **PlatformCon2024** - Online - 12 June 2024
