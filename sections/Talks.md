@@ -1,6 +1,10 @@
 # Talks and Presentations
 
 ### Testing for Inclusivity: QA Techniques for Diverse User Experience
+**DevFest Modena** - In presence - 12 October 2024
+- [Get Ticket](https://devfest.modena.it/)
+
+### Testing for Inclusivity: QA Techniques for Diverse User Experience
 **Intersection Conference** - In presence - 3 October 2024
 - This session will highlight how QA teams can make testing processes inclusive for a diverse user base, using the latest research and technologies. Participants will witness lines of code and demos demonstrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a perspective on technology shaped by inclusivity, promoting a future where diverse user experiences guide development and QA processes.
 - [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)
