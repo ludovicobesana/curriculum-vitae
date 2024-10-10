@@ -1,6 +1,6 @@
 # Talks and Presentations
 
-### Testing for Inclusivity: QA Techniques for Diverse User Experience
+### AI-Powered Testing:  Revolutionizing QA with  Machine Learning
 **DevFest Modena** - In presence - 12 October 2024
 - [Get Ticket](https://devfest.modena.it/)
 
