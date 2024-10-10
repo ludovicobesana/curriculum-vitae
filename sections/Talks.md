@@ -2,6 +2,8 @@
 
 ### AI-Powered Testing:  Revolutionizing QA with  Machine Learning
 **DevFest Modena** - In presence - 12 October 2024
+- [See program](https://devfest.modena.it/program)
+- [Talk page](https://devfest.modena.it/speaker/ludovico-besana)
 - [Get Ticket](https://devfest.modena.it/)
 
 ### Testing for Inclusivity: QA Techniques for Diverse User Experience
