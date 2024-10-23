@@ -1,5 +1,10 @@
 # Talks and Presentations
 
+### Prompt Engineering for Test Automation: Enhancing AI-Driven Quality Assurance
+**Conf42 Prompt Engineering 2024** - Online -  14 November 2024
+- Discover how prompt engineering can revolutionize test automation by improving the accuracy, speed, and reliability of AI-driven quality assurance in modern software development pipelines.
+- [Talk page](https://www.conf42.com/Prompt_Engineering_2024_Ludovico_Besana_promptengineering_automation_quality)
+
 ### AI-Powered Testing:  Revolutionizing QA with  Machine Learning
 **DevFest Modena** - In presence - 12 October 2024
 - [See program](https://devfest.modena.it/program)
