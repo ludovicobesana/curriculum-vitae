@@ -5,6 +5,9 @@
 - In this talk, I’ll share my vision for the evolving role of Test Engineers, moving beyond the traditional focus on bug detection to becoming essential partners in the development process. We’ll examine how automation, AI, and DevOps are reshaping the testing landscape, demanding new skills and approaches. This session will offer insights into modernizing the journey to becoming a Test Engineer, ensuring it aligns with the current needs of software development.
 - [Talk page](https://devfestmilano.it/sessions/755304)
 
+### Supercharge Playwright Testing: Real Devices & CI Magic with BrowserStack 
+**BrowserStack QA meetup Milan - November**  - In presence - 21 November 2024
+- [Get Ticket](https://www.meetup.com/it-IT/browserstack-software-testing-and-qa-meetup-group-milan/events/303935017)
 
 ### Prompt Engineering for Test Automation: Enhancing AI-Driven Quality Assurance
 **Conf42 Prompt Engineering 2024** - Online -  14 November 2024
