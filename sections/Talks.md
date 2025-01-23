@@ -1,4 +1,8 @@
 # Talks and Presentations
+### Redefining the Role of the Test Engineer: The Path to a New Era
+**QA Global Summit'25** - Online - 21 January 2025
+- In this talk, I’ll share my vision for the evolving role of Test Engineers, moving beyond the traditional focus on bug detection to becoming essential partners in the development process. We’ll examine how automation, AI, and DevOps are reshaping the testing landscape, demanding new skills and approaches. This session will offer insights into modernizing the journey to becoming a Test Engineer, ensuring it aligns with the current needs of software development.
+- [Talk page](https://geekle.us/schedule/qa25?track=1733944741879x381094268063973400) 
 
 ### Redefining the Role of the Test Engineer: The Path to a New Era
 **DevFest Milano**  - In presence - 23 November 2024
