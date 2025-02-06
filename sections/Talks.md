@@ -1,4 +1,12 @@
 # Talks and Presentations
+
+
+### Boost Testing with AI: best practices and strategies that really work
+**Italian Software Testing Forum 2025** - In presence - 21 May 2025
+- In this talk I will share my practical experience as a Senior Test Engineer in integrating AI into Quality Assurance processes. I will show how machine learning models and data analysis have allowed to reduce release times, identify defects early and improve the overall reliability of the software. I will also illustrate practical tools and demos ranging from AI-based test automation to the use of advanced chatbots to optimize communication and support during development and testing. Starting from real scenarios of web and mobile projects, I will explain the main challenges faced (such as data management and bias mitigation) and the solutions adopted to fully exploit the potential of AI, without giving up the fundamental principles of testing. Finally, I will share practical tips and success metrics to start or enhance an AI-driven journey in your organization, maximizing efficiency and stakeholder satisfaction.
+- [Get Ticket](https://www.swtestingforum.org/index.php/it/programma/relatori)
+- [Event Page](https://www.swtestingforum.org/index.php/it/programma/modalita-iscrizione)
+
 ### Redefining the Role of the Test Engineer: The Path to a New Era
 **QA Global Summit'25** - Online - 21 January 2025
 - In this talk, I’ll share my vision for the evolving role of Test Engineers, moving beyond the traditional focus on bug detection to becoming essential partners in the development process. We’ll examine how automation, AI, and DevOps are reshaping the testing landscape, demanding new skills and approaches. This session will offer insights into modernizing the journey to becoming a Test Engineer, ensuring it aligns with the current needs of software development.
