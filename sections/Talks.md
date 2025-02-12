@@ -1,4 +1,9 @@
 # Talks and Presentations
+### Testing JavaScript Beyond the Basics: Quick Wins for Better Quality
+**RomaJS Special Edition #NaN** - In presence - 15 February 2025
+- In this Lightning Talk, I will explore quick and effective techniques to improve JavaScript code quality through testing. Drawing from real-world project experience, I will share best practices to optimize automated tests and reduce bugs in production. We will discuss how to make the most of frameworks like Playwright and CI tools to get immediate feedback. In just 10 minutes, I will provide practical tips to enhance your testing strategy without complicating your workflow.
+- [Get Ticket](https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319)
+- [Event Page](https://romajs.org/it/eventi/2025-02-15-romajs-special-edition/)
 
 
 ### Boost Testing with AI: best practices and strategies that really work
