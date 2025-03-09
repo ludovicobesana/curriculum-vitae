@@ -12,7 +12,7 @@
 - [Event Page](https://www.webdayconf.it/e/sessione/3640/Testing-for-Inclusivity-QA-Techniques-for-Diverse-User-Experience)
 
 ### Igniting Passion: Revitalizing Motivation in Tech Teams
-**Locanda Tech Tales** - In presence - 17 March 2025
+**Locanda Tech Tales** - Online - 17 March 2025
 - In the ever-evolving landscape of the tech industry, the concept of team motivation has shifted from a peripheral concern to a central element of organizational success. This talk embraces this contemporary perspective, combining insights from motivational psychology with innovative management practices. This approach ensures that motivation and team spirit are integral parts of a tech team's journey, from the very beginning and throughout all stages of project and team development.
 - [Event Page](https://lalocandadeltech.it/)
 
