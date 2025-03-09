@@ -1,16 +1,26 @@
 # Talks and Presentations
-### Testing JavaScript Beyond the Basics: Quick Wins for Better Quality
-**RomaJS Special Edition #NaN** - In presence - 15 February 2025
-- In this Lightning Talk, I will explore quick and effective techniques to improve JavaScript code quality through testing. Drawing from real-world project experience, I will share best practices to optimize automated tests and reduce bugs in production. We will discuss how to make the most of frameworks like Playwright and CI tools to get immediate feedback. In just 10 minutes, I will provide practical tips to enhance your testing strategy without complicating your workflow.
-- [Get Ticket](https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319)
-- [Event Page](https://romajs.org/it/eventi/2025-02-15-romajs-special-edition/)
-
-
 ### Boost Testing with AI: best practices and strategies that really work
 **Italian Software Testing Forum 2025** - In presence - 21 May 2025
 - In this talk I will share my practical experience as a Senior Test Engineer in integrating AI into Quality Assurance processes. I will show how machine learning models and data analysis have allowed to reduce release times, identify defects early and improve the overall reliability of the software. I will also illustrate practical tools and demos ranging from AI-based test automation to the use of advanced chatbots to optimize communication and support during development and testing. Starting from real scenarios of web and mobile projects, I will explain the main challenges faced (such as data management and bias mitigation) and the solutions adopted to fully exploit the potential of AI, without giving up the fundamental principles of testing. Finally, I will share practical tips and success metrics to start or enhance an AI-driven journey in your organization, maximizing efficiency and stakeholder satisfaction.
 - [Get Ticket](https://www.swtestingforum.org/index.php/it/programma/relatori)
 - [Event Page](https://www.swtestingforum.org/index.php/it/programma/modalita-iscrizione)
+
+### Testing for Inclusivity: QA Techniques for Diverse User Experience
+**Web Day 2025** - In presence - 31 March 2025
+- This session will highlight how QA teams can make testing processes inclusive for a diverse user base by leveraging the latest research and technologies. Attendees will see lines of code and demos illustrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a vision of technology shaped by inclusivity, fostering a future where diverse user experiences drive development and QA processes.
+- [Get Ticket](https://www.webdayconf.it/#tickets)
+- [Event Page](https://www.webdayconf.it/e/sessione/3640/Testing-for-Inclusivity-QA-Techniques-for-Diverse-User-Experience)
+
+### Igniting Passion: Revitalizing Motivation in Tech Teams
+**Locanda Tech Tales** - In presence - 17 March 2025
+- In the ever-evolving landscape of the tech industry, the concept of team motivation has shifted from a peripheral concern to a central element of organizational success. This talk embraces this contemporary perspective, combining insights from motivational psychology with innovative management practices. This approach ensures that motivation and team spirit are integral parts of a tech team's journey, from the very beginning and throughout all stages of project and team development.
+- [Event Page](https://lalocandadeltech.it/)
+
+### Testing JavaScript Beyond the Basics: Quick Wins for Better Quality
+**RomaJS Special Edition #NaN** - In presence - 15 February 2025
+- In this Lightning Talk, I will explore quick and effective techniques to improve JavaScript code quality through testing. Drawing from real-world project experience, I will share best practices to optimize automated tests and reduce bugs in production. We will discuss how to make the most of frameworks like Playwright and CI tools to get immediate feedback. In just 10 minutes, I will provide practical tips to enhance your testing strategy without complicating your workflow.
+- [Get Ticket](https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319)
+- [Event Page](https://romajs.org/it/eventi/2025-02-15-romajs-special-edition/)
 
 ### Redefining the Role of the Test Engineer: The Path to a New Era
 **QA Global Summit'25** - Online - 21 January 2025
