@@ -1,4 +1,12 @@
 # Talks and Presentations
+
+### Write Less, Test More: Mobile automation with Maestro
+**Ministry of Testing Milan Meetup** - In presence - 16 June 2025
+- Automating mobile tests is often challenging. With Maestro, you can write end-to-end tests that are readable, stable, and easy to maintain—ideal for improving the quality of Android and iOS apps.
+In this talk, I'll present a real-world case with a live demo, highlighting the strengths of the tool. We'll also discuss its limitations, when it's not the best fit, and alternative tools that can complement or replace it.
+A practical talk designed for QA engineers, developers, and mobile teams looking to make their app testing more efficient.
+- [Get Ticket](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
+
 ### Boost Testing with AI: best practices and strategies that really work
 **Italian Software Testing Forum 2025** - In presence - 21 May 2025
 - In this talk I will share my practical experience as a Senior Test Engineer in integrating AI into Quality Assurance processes. I will show how machine learning models and data analysis have allowed to reduce release times, identify defects early and improve the overall reliability of the software. I will also illustrate practical tools and demos ranging from AI-based test automation to the use of advanced chatbots to optimize communication and support during development and testing. Starting from real scenarios of web and mobile projects, I will explain the main challenges faced (such as data management and bias mitigation) and the solutions adopted to fully exploit the potential of AI, without giving up the fundamental principles of testing. Finally, I will share practical tips and success metrics to start or enhance an AI-driven journey in your organization, maximizing efficiency and stakeholder satisfaction.
