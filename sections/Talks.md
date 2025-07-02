@@ -1,11 +1,49 @@
 # Talks and Presentations
 
+<!-- ### Title of the talk
+**Name of the event** - In presence/Online - xx xxxx 2025
+- **Abstract**: A brief overview of the talk, highlighting key points and objectives.
+- [Get Ticket](https://www.example.com)
+-->
+
+### Shift Left for Inclusion: Scalable accessibility testing with Cypress
+**CypressConf 2025** - Online - 21 October 2025
+- [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
+
+### From Unit to E2E: Crafting a Bulletproof testing pipeline for React Apps
+**reactjsday 2025** - In presence - 16 October 2025
+- [Get Ticket](https://www.reactjsday.it/)
+
+### Speed Up by Slowing Down: How Quality becomes your fastest Growth Tool
+**DevFest Modena 2025** - In presence - 4 October 2025
+- [Get Ticket](https://devfest.modena.it/)
+
+### Empowering Testing with AI: Best Practices and Strategies That Truly Work
+**BCS SIGiST Summer Conference 2025** - Online - 19 June 2025
+- [Get Ticket](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
+
+### The AI Bug: How to Test Applications with Unpredictable Output
+**DevFest Vicenza 2025** - In presence - 14 June 2025
+- [Get Ticket](https://devfestvicenza.it/)
+
+### The AI Bug: How to Test Applications with Unpredictable Output
+**We Make Future 2025** - In presence - 6 June 2025
+- [Get Ticket](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
+
+### Hello Darwin: Does the Gender Gap Exist? “Team Yes” vs “Team No”
+**We Make Future 2025** - In presence - 5 June 2025
+- [Get Ticket](https://www.wemakefuture.it/i/682edafcdfb761c0351c9fc6/)
+
 ### Write Less, Test More: Mobile automation with Maestro
 **Ministry of Testing Milan Meetup** - In presence - 16 June 2025
 - Automating mobile tests is often challenging. With Maestro, you can write end-to-end tests that are readable, stable, and easy to maintain—ideal for improving the quality of Android and iOS apps.
 In this talk, I'll present a real-world case with a live demo, highlighting the strengths of the tool. We'll also discuss its limitations, when it's not the best fit, and alternative tools that can complement or replace it.
 A practical talk designed for QA engineers, developers, and mobile teams looking to make their app testing more efficient.
 - [Get Ticket](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
+
+### Inspirational Talk with SheTech 
+**SheTech for POLARIS project** -Online - 26 May 2025
+- Share professional journeys, studies, challenges faced, and practical advice with five high school classes. The session will open with a discussion on the importance of STEM, gender stereotypes, and equity in tech.
 
 ### Boost Testing with AI: best practices and strategies that really work
 **Italian Software Testing Forum 2025** - In presence - 21 May 2025
