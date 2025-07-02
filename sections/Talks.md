@@ -22,6 +22,10 @@
 **BCS SIGiST Summer Conference 2025** - Online - 19 June 2025
 - [Get Ticket](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
+### Special Community Day 2025 with Ludovico Besana and Giulia Tosato
+**Dev Dojo IT** - Online - 17 June 2025
+- [Link to video](https://youtu.be/-9FGcwKtvow)
+
 ### Write Less, Test More: Mobile automation with Maestro
 **Ministry of Testing Milan Meetup** - In presence - 16 June 2025
 - Automating mobile tests is often challenging. With Maestro, you can write end-to-end tests that are readable, stable, and easy to maintain—ideal for improving the quality of Android and iOS apps.
