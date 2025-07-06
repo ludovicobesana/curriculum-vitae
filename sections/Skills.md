@@ -37,7 +37,7 @@
 
 #### Methodologies
 
-- **Agile Practices**: [Lean Software Development](https://www.geeksforgeeks.org/lean-software-development-lsd/), [Scrum](https://www.scrum.org/), [Cross-Functional Teams](https://www.atlassian.com/work-management/project-collaboration/cross-functional-teams)
+- **Agile Practices**: [Lean Software Development](https://www.geeksforgeeks.org/lean-software-development-lsd/), [Scrum](https://www.scrum.org/), [Cross-Functional Teams](https://www.atlassian.com/work-management/project-collaboration/cross-functional-teams), [The three amigos](https://en.wikipedia.org/wiki/Behavior-driven_development#The_three_amigos)
 - **Development Approaches**: [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), [Pair Programming](https://www.techtarget.com/searchsoftwarequality/definition/Pair-programming), [BDD](https://it.wikipedia.org/wiki/Behavior-driven_development), [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - **DevOps & QAOps**: [DevOps](https://about.gitlab.com/topics/devops/), [QAOps](https://www.browserstack.com/guide/what-is-qaops), [CI/CD](https://www.redhat.com/it/topics/devops/what-is-ci-cd), [Blameless Postmortems](https://sre.google/sre-book/postmortem-culture/), [UAT](https://www.guru99.com/user-acceptance-testing.html)
 
