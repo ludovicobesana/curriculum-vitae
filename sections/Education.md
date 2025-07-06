@@ -13,6 +13,7 @@
 - English (Professional working proficiency)
 - Italian (Primary fluency)
 - French (Limited working proficiency)
+- Chinese (Currently studying)
 
 ---
 
