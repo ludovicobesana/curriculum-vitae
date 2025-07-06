@@ -23,7 +23,8 @@
 - **Performance**: [JMeter](https://jmeter.apache.org/), [k6](https://k6.io/)
 - **Observability**: [Grafana](https://grafana.com/), [Datadog](https://www.datadoghq.com/), [Proxyman](https://proxyman.io/)
 - **Utilities**: [JSONPath](https://jsonpath.com/), [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [ResponsivelyApp](https://responsively.app/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/)
-- **Reporting & Test Management**: [Xray](https://www.getxray.app/), [TestRail](https://www.testrail.com/)
+- **Reporting & Test Management**: [Xray](https://www.getxray.app/), [TestRail](https://www.testrail.com/), [BrowserStack Test Management](https://www.browserstack.com/test-management)
+- **Cloud Testing Platforms**: [BrowserStack](http://browserstack.com/)
 
 #### Tools
 
