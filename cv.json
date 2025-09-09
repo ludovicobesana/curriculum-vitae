@@ -1,0 +1,154 @@
+{
+  "introduction": "As a QA Engineer and Developer with over 10 years of experience in the web world, I have a strong track record of success in identifying and troubleshooting issues with software. Based in Milan 🏙️, I have honed my skills in teamwork and leadership as a Scout for 13 years.  In my free time, I am actively engaged in voluntary work as an educator and open source contributor, and have a deep passion for animals and the automotive, music and sport sectors.   I am known for my motivation, entrepreneurial spirit, and curiosity, as well as my ability to find creative solutions to complex problems.  As a proactive and forward-thinking individual, I am always seeking out new sectors and technologies to learn about and master. I am driven by a desire to continuously improve the web and make it a better place for all.",
+  "skills": {
+    "primary": [
+      "Strong experience in software testing and QA Management",
+      "Excellent attention to detail and ability to write detailed test cases and bug reports",
+      "Proven ability to work closely with customer support, software engineers and product managers",
+      "Strong problem-solving skills and ability to balance speed and quality in a competitive environment",
+      "Proactive, collaborative, and tenacious approach"
+    ],
+    "full_stack": {
+      "frontend": [
+        "[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)",
+        "[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)",
+        "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)",
+        "[TypeScript](https://www.typescriptlang.org/)",
+        "[Tailwind CSS](https://tailwindcss.com/)"
+      ],
+      "frameworks": [
+        "[Astro](https://astro.build/)",
+        "[React](https://reactjs.org/)",
+        "[Next.js](https://nextjs.org/)"
+      ],
+      "backend": [
+        "[Node.js](https://nodejs.org/)"
+      ],
+      "databases": [
+        "[MySQL](https://www.mysql.com/)",
+        "[PostgreSQL](https://www.postgresql.org/)",
+        "[MongoDB](https://www.mongodb.com/)"
+      ],
+      "programming": [
+        "[Python](https://www.python.org/)",
+        "[YAML](https://yaml.org/)"
+      ],
+      "ssg": []
+    },
+    "testing": {
+      "frameworks": [
+        "[Playwright](https://playwright.dev/)",
+        "[WebdriverIO](https://webdriver.io/)",
+        "[Cypress](https://www.cypress.io/)",
+        "[Robot Framework](https://robotframework.org/)",
+        "[Maestro](https://maestro.dev/)"
+      ],
+      "tools": [],
+      "performance": [
+        "[JMeter](https://jmeter.apache.org/)",
+        "[k6](https://k6.io/)"
+      ],
+      "observability": [
+        "[Grafana](https://grafana.com/)",
+        "[Datadog](https://www.datadoghq.com/)",
+        "[Proxyman](https://proxyman.io/)"
+      ]
+    }
+  },
+  "work_experience": [
+    {
+      "title": "Senior Test Engineer",
+      "company": "Nearform",
+      "location": "Milan, Italy",
+      "dates": "April 2024 - Present",
+      "highlights": []
+    },
+    {
+      "title": "QA Engineer",
+      "company": "Banca AideXa",
+      "location": "Milan, Italy",
+      "dates": "April 2022 - April 2024",
+      "highlights": [
+        "Established and led the company's QA department.",
+        "Created and maintained test automation and API testing.",
+        "Implemented test strategies and product test plans.",
+        "Provided production release support and bug management.",
+        "Involved in the implementation of CI/CD solutions.",
+        "Provided training and coaching to team members."
+      ]
+    },
+    {
+      "title": "QA Analyst & QA Automation Engineer",
+      "company": "Abstract",
+      "location": "Milan, Italy",
+      "dates": "June 2021 - April 2022",
+      "highlights": [
+        "Worked on projects for companies such as Arnette, Ray-Ban, and Oakley.",
+        "Wrote test cases, performed manual tests, and reported and tracked bugs.",
+        "Automated testing using Robot Framework and a customized Java framework with Katalium & TestNG.",
+        "Conducted database testing."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Computer engineering",
+      "institution": "Università degli Studi \"Guglielmo Marconi\"",
+      "location": "Rome, Italy",
+      "dates": "2023 - In progress"
+    },
+    {
+      "degree": "Online Bootcamp",
+      "institution": "Bootcamp.dev",
+      "location": "Online",
+      "dates": "2022 - 2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "**Computer engineering** from **Università degli Studi \"Guglielmo Marconi\"**, Rome, Italy",
+      "level": "2023 - In progress"
+    },
+    {
+      "language": "**Online Bootcamp** from **Bootcamp.dev**, Online",
+      "level": "2022 - 2023"
+    },
+    {
+      "language": "**UX Design Bootcamp** from **Eye Studios**, Online",
+      "level": "2022"
+    },
+    {
+      "language": "**Master in Blockchain and Cryptocurrency** from **MasterZ**, Online",
+      "level": "2022"
+    },
+    {
+      "language": "**Online Course in IT and Digital Issues** from **Start2impact**, Online",
+      "level": "2021"
+    },
+    {
+      "language": "**Online Course** from **Crescere in digitale**, Online",
+      "level": "2019"
+    },
+    {
+      "language": "**Diploma in Computer Science and Telecommunications** from **I.S.S. Caramuel**, Vigevano, Italy",
+      "level": "2019"
+    },
+    {
+      "language": "English",
+      "level": "Professional working proficiency"
+    },
+    {
+      "language": "Italian",
+      "level": "Primary fluency"
+    },
+    {
+      "language": "French",
+      "level": "Limited working proficiency"
+    },
+    {
+      "language": "Chinese",
+      "level": "Currently studying"
+    }
+  ],
+  "projects": "Available upon request"
+}
