@@ -10,8 +10,8 @@
 |-------|--------|------|---------|-----------|--------|
 | Beyond Acceptance Criteria: Testing for inclusivity in agile teams | Italian Agile Days 2025 | 8 Nov 2025 | In presence | Italian | [Get Ticket](https://www.agileday.it/) |
 | Shift Left for Inclusion: Scalable accessibility testing with Cypress | CypressConf 2025 | 21 Oct 2025 | Online | English | [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) |
-| Modern Mobile Testing: Tools and Strategies to Avoid Bugs and Release with Confidence | Napoli DevFest 2025 | 11 Oct 2025 | In presence | Italian | [Get Ticket](https://www.napolidevfest.it/) |
 | From Unit to E2E: Crafting a Bulletproof testing pipeline for React Apps | reactjsday 2025 | 16 Oct 2025 | In presence | English | [Get Ticket](https://www.reactjsday.it/) |
+| Modern Mobile Testing: Tools and Strategies to Avoid Bugs and Release with Confidence | Napoli DevFest 2025 | 11 Oct 2025 | In presence | Italian | [Get Ticket](https://www.napolidevfest.it/) |
 | Speed Up by Slowing Down: How Quality becomes your fastest Growth Tool | DevFest Modena 2025 | 4 Oct 2025 | In presence | Italian | [Get Ticket](https://devfest.modena.it/) |
 | Empowering Testing with AI: Best Practices and Strategies That Truly Work | BCS SIGiST Summer Conference 2025 | 19 Jun 2025 | Online | English | [Get Ticket](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/) |
 | Special Community Day 2025 with Ludovico Besana and Giulia Tosato | Dev Dojo IT | 17 Jun 2025 | Online | Italian | [Video](https://youtu.be/-9FGcwKtvow) |
