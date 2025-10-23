@@ -6,196 +6,48 @@
 - [Get Ticket](https://www.example.com)
 -->
 
-### Shift Left for Inclusion: Scalable accessibility testing with Cypress
-**CypressConf 2025** - Online - 21 October 2025
-- [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
+| Title | Event | Date | Format | Language | Links |
+|-------|--------|------|---------|-----------|--------|
+| Shift Left for Inclusion: Scalable accessibility testing with Cypress | CypressConf 2025 | 21 Oct 2025 | Online | English | [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) |
+| Modern Mobile Testing: Tools and Strategies to Avoid Bugs and Release with Confidence | Napoli DevFest 2025 | 11 Oct 2025 | In presence | Italian | [Get Ticket](https://www.napolidevfest.it/) |
+| From Unit to E2E: Crafting a Bulletproof testing pipeline for React Apps | reactjsday 2025 | 16 Oct 2025 | In presence | English | [Get Ticket](https://www.reactjsday.it/) |
+| Speed Up by Slowing Down: How Quality becomes your fastest Growth Tool | DevFest Modena 2025 | 4 Oct 2025 | In presence | Italian | [Get Ticket](https://devfest.modena.it/) |
+| Empowering Testing with AI: Best Practices and Strategies That Truly Work | BCS SIGiST Summer Conference 2025 | 19 Jun 2025 | Online | English | [Get Ticket](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/) |
+| Special Community Day 2025 with Ludovico Besana and Giulia Tosato | Dev Dojo IT | 17 Jun 2025 | Online | Italian | [Video](https://youtu.be/-9FGcwKtvow) |
+| Write Less, Test More: Mobile automation with Maestro | Ministry of Testing Milan Meetup | 16 Jun 2025 | In presence | English | [Get Ticket](https://www.meetup.com/it-IT/mot-milan/events/308062631/) |
+| The AI Bug: How to Test Applications with Unpredictable Output | DevFest Vicenza 2025 | 14 Jun 2025 | In presence | Italian | [Get Ticket](https://devfestvicenza.it/) |
+| The AI Bug: How to Test Applications with Unpredictable Output | We Make Future 2025 | 6 Jun 2025 | In presence | English | [Get Ticket](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/) |
+| Hello Darwin: Does the Gender Gap Exist? “Team Yes” vs “Team No” | We Make Future 2025 | 5 Jun 2025 | In presence | Italian | [Get Ticket](https://www.wemakefuture.it/i/682edafcdfb761c0351c9fc6/) |
+| Inspirational Talk with SheTech | SheTech for POLARIS project | 26 May 2025 | Online | Italian | — |
+| Boost Testing with AI: Best Practices and Strategies That Really Work | Italian Software Testing Forum 2025 | 21 May 2025 | In presence | English | [Get Ticket](https://www.swtestingforum.org/index.php/it/programma/relatori) |
+| Testing for Inclusivity: QA Techniques for Diverse User Experience | Web Day 2025 | 31 Mar 2025 | In presence | English | [Event Page](https://www.webdayconf.it/e/sessione/3640/Testing-for-Inclusivity-QA-Techniques-for-Diverse-User-Experience) |
+| Igniting Passion: Revitalizing Motivation in Tech Teams | Locanda Tech Tales | 17 Mar 2025 | Online | Italian | [Event Page](https://lalocandadeltech.it/) |
+| Testing JavaScript Beyond the Basics: Quick Wins for Better Quality | RomaJS Special Edition #NaN | 15 Feb 2025 | In presence | Italian | [Get Ticket](https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319) |
+| Redefining the Role of the Test Engineer: The Path to a New Era | QA Global Summit’25 | 21 Jan 2025 | Online | English | [Talk Page](https://geekle.us/schedule/qa25?track=1733944741879x381094268063973400) |
+| Redefining the Role of the Test Engineer: The Path to a New Era | DevFest Milano | 23 Nov 2024 | In presence | Italian | [Talk Page](https://devfestmilano.it/sessions/755304) |
+| Supercharge Playwright Testing: Real Devices & CI Magic with BrowserStack | BrowserStack QA Meetup Milan | 21 Nov 2024 | In presence | English | [Get Ticket](https://www.meetup.com/it-IT/browserstack-software-testing-and-qa-meetup-group-milan/events/303935017) |
+| Prompt Engineering for Test Automation: Enhancing AI-Driven Quality Assurance | Conf42 Prompt Engineering 2024 | 14 Nov 2024 | Online | English | [Talk Page](https://www.conf42.com/Prompt_Engineering_2024_Ludovico_Besana_promptengineering_automation_quality) |
+| AI-Powered Testing: Revolutionizing QA with Machine Learning | DevFest Modena | 12 Oct 2024 | In presence | English | [Talk Page](https://devfest.modena.it/speaker/ludovico-besana) |
+| Testing for Inclusivity: QA Techniques for Diverse User Experience | Intersection Conference | 3 Oct 2024 | In presence | English | [Talk Page](https://www.intersection-conference.eu/items/ludovico-besana/) |
+| Accelerate Web Excellence: Master Shift-Left Testing | NgRome | 28 Sep 2024 | In presence | English | — |
+| From Manual to Automated: Transitioning to Test Automation | Fuori Di Test 2024 | 21 Sep 2024 | In presence | Italian | — |
+| Embracing the Shift: QA's Evolution in the SRE and SLO Landscape | PlatformCon2024 | 12 Jun 2024 | Online | English | [Video](https://youtu.be/M9-1KqQ2q6I) |
+| Optimizing Performance: Modern Load Testing with K6 | React JS Milano | 28 Mar 2024 | In presence | English | [Video](https://youtu.be/dmgH5EsvWJw) |
+| Full Stack Recruiter #2 - QA / Testing | TomorrowDevs | 22 Jan 2024 | Online | Italian | [Get Ticket](https://www.tomorrowdevs.com/corso-fullstack-recruiter/) |
+| Code, Creativity and Career: A Journey Through the World of Web Development | BitCamp | 13 Dec 2023 | Online | Italian | [Video](https://www.facebook.com/bitcamp.it/videos/1166856111368102) |
+| Road to Dev - Remote Work and Productivity | Codemotion | 30 Nov 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev-lavoro-da-remoto-e-produttiv) |
+| Playwright Under the Microscope | MilanoJS | 21 Nov 2023 | In presence | English | [Video](https://youtu.be/llqt1zOGPHg) |
+| Full Stack Recruiter #1 - QA / Testing - Infiltrate in QA | TomorrowDevs | 30 Oct 2023 | Online | Italian | — |
+| Road to Dev - Building a Personal Brand Online | Codemotion Conference Milan | 24 Oct 2023 | In presence | Italian | [Talk Page](https://community.codemotion.com/codemotion-italy/meetups/road-to-dev---costruire-un-brand-personale-online) |
+| Leveraging Automated Testing Data to Enhance User Experience | Intersection Conference | 10 Oct 2023 | In presence | English | [Video](https://youtu.be/xbOrRp957RY) |
+| Road to Dev: How to Better Manage Your Time | Codemotion | Jun 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev-come-gestire-al-meglio-il-pr) |
+| Road to Dev - The Importance of Networking | Codemotion | May 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev-limportanza-del-networking) |
+| PlatformCon2023 | PlatformCon | 8–9 Jun 2023 | Online | English | [Link](https://platformcon.com/speakers/ludovico-besana) |
+| Road to Dev - Let's Face Job Interviews | Codemotion | Apr 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev---affrontiamo-i-colloqui-di-) |
+| Mastermind Testing | Start2impact | Jul 2021 | Online | Italian | — |
+| How NOT to Build a Community | Coding Bunker | Apr 2021 | Online | Italian | — |
+| Panel Online - The Business, This Unknown: A Bridge Between Dev and Customer | Codemotion | Mar 2021 | Online | Italian | [Video](https://talks.codemotion.com/panel-online---il-business-questo-sconos) |
 
-### Modern Mobile Testing: Tools and Strategies to Avoid Bugs and Release with Confidence
-**Napoli DevFest 2025** - In presence - 11 October 2025
-- Critical bugs, unstable tests, and risky releases are daily challenges in mobile development. Effective testing is the key to ensuring reliable and performant applications. In this talk, we will explore advanced tools and strategies for writing solid tests, reducing the number of false positives and negatives, integrating testing into the development cycle, and preventing bugs before they reach users.
-- [Get Ticket](https://www.napolidevfest.it/)
-
-### From Unit to E2E: Crafting a Bulletproof testing pipeline for React Apps
-**reactjsday 2025** - In presence - 16 October 2025
-- [Get Ticket](https://www.reactjsday.it/)
-
-### Speed Up by Slowing Down: How Quality becomes your fastest Growth Tool
-**DevFest Modena 2025** - In presence - 4 October 2025
-- [Get Ticket](https://devfest.modena.it/)
-
-### Empowering Testing with AI: Best Practices and Strategies That Truly Work
-**BCS SIGiST Summer Conference 2025** - Online - 19 June 2025
-- [Get Ticket](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
-
-### Special Community Day 2025 with Ludovico Besana and Giulia Tosato
-**Dev Dojo IT** - Online - 17 June 2025
-- [Link to video](https://youtu.be/-9FGcwKtvow)
-
-### Write Less, Test More: Mobile automation with Maestro
-**Ministry of Testing Milan Meetup** - In presence - 16 June 2025
-- Automating mobile tests is often challenging. With Maestro, you can write end-to-end tests that are readable, stable, and easy to maintain—ideal for improving the quality of Android and iOS apps.
-In this talk, I'll present a real-world case with a live demo, highlighting the strengths of the tool. We'll also discuss its limitations, when it's not the best fit, and alternative tools that can complement or replace it.
-A practical talk designed for QA engineers, developers, and mobile teams looking to make their app testing more efficient.
-- [Get Ticket](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
-
-### The AI Bug: How to Test Applications with Unpredictable Output
-**DevFest Vicenza 2025** - In presence - 14 June 2025
-- [Get Ticket](https://devfestvicenza.it/)
-
-### The AI Bug: How to Test Applications with Unpredictable Output
-**We Make Future 2025** - In presence - 6 June 2025
-- [Get Ticket](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
-
-### Hello Darwin: Does the Gender Gap Exist? “Team Yes” vs “Team No”
-**We Make Future 2025** - In presence - 5 June 2025
-- [Get Ticket](https://www.wemakefuture.it/i/682edafcdfb761c0351c9fc6/)
-
-### Inspirational Talk with SheTech 
-**SheTech for POLARIS project** -Online - 26 May 2025
-- Share professional journeys, studies, challenges faced, and practical advice with five high school classes. The session will open with a discussion on the importance of STEM, gender stereotypes, and equity in tech.
-
-### Boost Testing with AI: best practices and strategies that really work
-**Italian Software Testing Forum 2025** - In presence - 21 May 2025
-- In this talk I will share my practical experience as a Senior Test Engineer in integrating AI into Quality Assurance processes. I will show how machine learning models and data analysis have allowed to reduce release times, identify defects early and improve the overall reliability of the software. I will also illustrate practical tools and demos ranging from AI-based test automation to the use of advanced chatbots to optimize communication and support during development and testing. Starting from real scenarios of web and mobile projects, I will explain the main challenges faced (such as data management and bias mitigation) and the solutions adopted to fully exploit the potential of AI, without giving up the fundamental principles of testing. Finally, I will share practical tips and success metrics to start or enhance an AI-driven journey in your organization, maximizing efficiency and stakeholder satisfaction.
-- [Get Ticket](https://www.swtestingforum.org/index.php/it/programma/relatori)
-- [Event Page](https://www.swtestingforum.org/index.php/it/programma/modalita-iscrizione)
-
-### Testing for Inclusivity: QA Techniques for Diverse User Experience
-**Web Day 2025** - In presence - 31 March 2025
-- This session will highlight how QA teams can make testing processes inclusive for a diverse user base by leveraging the latest research and technologies. Attendees will see lines of code and demos illustrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a vision of technology shaped by inclusivity, fostering a future where diverse user experiences drive development and QA processes.
-- [Get Ticket](https://www.webdayconf.it/#tickets)
-- [Event Page](https://www.webdayconf.it/e/sessione/3640/Testing-for-Inclusivity-QA-Techniques-for-Diverse-User-Experience)
-
-### Igniting Passion: Revitalizing Motivation in Tech Teams
-**Locanda Tech Tales** - Online - 17 March 2025
-- In the ever-evolving landscape of the tech industry, the concept of team motivation has shifted from a peripheral concern to a central element of organizational success. This talk embraces this contemporary perspective, combining insights from motivational psychology with innovative management practices. This approach ensures that motivation and team spirit are integral parts of a tech team's journey, from the very beginning and throughout all stages of project and team development.
-- [Event Page](https://lalocandadeltech.it/)
-
-### Testing JavaScript Beyond the Basics: Quick Wins for Better Quality
-**RomaJS Special Edition #NaN** - In presence - 15 February 2025
-- In this Lightning Talk, I will explore quick and effective techniques to improve JavaScript code quality through testing. Drawing from real-world project experience, I will share best practices to optimize automated tests and reduce bugs in production. We will discuss how to make the most of frameworks like Playwright and CI tools to get immediate feedback. In just 10 minutes, I will provide practical tips to enhance your testing strategy without complicating your workflow.
-- [Get Ticket](https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319)
-- [Event Page](https://romajs.org/it/eventi/2025-02-15-romajs-special-edition/)
-
-### Redefining the Role of the Test Engineer: The Path to a New Era
-**QA Global Summit'25** - Online - 21 January 2025
-- In this talk, I’ll share my vision for the evolving role of Test Engineers, moving beyond the traditional focus on bug detection to becoming essential partners in the development process. We’ll examine how automation, AI, and DevOps are reshaping the testing landscape, demanding new skills and approaches. This session will offer insights into modernizing the journey to becoming a Test Engineer, ensuring it aligns with the current needs of software development.
-- [Talk page](https://geekle.us/schedule/qa25?track=1733944741879x381094268063973400) 
-
-### Redefining the Role of the Test Engineer: The Path to a New Era
-**DevFest Milano**  - In presence - 23 November 2024
-- In this talk, I’ll share my vision for the evolving role of Test Engineers, moving beyond the traditional focus on bug detection to becoming essential partners in the development process. We’ll examine how automation, AI, and DevOps are reshaping the testing landscape, demanding new skills and approaches. This session will offer insights into modernizing the journey to becoming a Test Engineer, ensuring it aligns with the current needs of software development.
-- [Talk page](https://devfestmilano.it/sessions/755304)
-
-### Supercharge Playwright Testing: Real Devices & CI Magic with BrowserStack 
-**BrowserStack QA meetup Milan - November**  - In presence - 21 November 2024
-- [Get Ticket](https://www.meetup.com/it-IT/browserstack-software-testing-and-qa-meetup-group-milan/events/303935017)
-
-### Prompt Engineering for Test Automation: Enhancing AI-Driven Quality Assurance
-**Conf42 Prompt Engineering 2024** - Online -  14 November 2024
-- Discover how prompt engineering can revolutionize test automation by improving the accuracy, speed, and reliability of AI-driven quality assurance in modern software development pipelines.
-- [Talk page](https://www.conf42.com/Prompt_Engineering_2024_Ludovico_Besana_promptengineering_automation_quality)
-
-### AI-Powered Testing:  Revolutionizing QA with  Machine Learning
-**DevFest Modena** - In presence - 12 October 2024
-- [See program](https://devfest.modena.it/program)
-- [Talk page](https://devfest.modena.it/speaker/ludovico-besana)
-- [Get Ticket](https://devfest.modena.it/)
-
-### Testing for Inclusivity: QA Techniques for Diverse User Experience
-**Intersection Conference** - In presence - 3 October 2024
-- This session will highlight how QA teams can make testing processes inclusive for a diverse user base, using the latest research and technologies. Participants will witness lines of code and demos demonstrating inclusive testing methodologies, gaining insights for practical application. The talk will provide valuable knowledge and inspire a perspective on technology shaped by inclusivity, promoting a future where diverse user experiences guide development and QA processes.
-- [Talk page](https://www.intersection-conference.eu/items/ludovico-besana/)
-- [Get Ticket](https://pretix.eu/HintoGroup/Intersection/)
-
-### Accelerate Web Excellence: Master Shift-Left Testing
-**NgRome** - In presence - 28 September 2024
-- No recording available
-
-### From Manual to Automated: Transitioning to Test Automation
-**Fuori Di Test 2024** - In presence - 21 September 2024
-- No recording available
-
-### Embracing the shift: QA's evolution in the SRE and SLO landscape
-**PlatformCon2024** - Online - 12 June 2024
-- The advent of SRE and the strategic implementation of SLOs are reshaping the traditional roles of Quality Assurance (QA) professionals. This unified talk explores the multifaceted evolution of QA roles in the context of SRE practices, highlighting the pivotal shift towards a more integrated, efficient, and reliability-focused approach to software development. Attendees will gain insights into how SLOs serve as a foundation for this transformation, promoting a deeper collaboration between QA, engineering, and operations teams, and fostering a culture of continuous improvement and automation.
-- [Link to video](https://youtu.be/M9-1KqQ2q6I)
-
-### Optimizing Performance: Modern Load Testing with K6
-**React JS Milano** - In presence - 28 March 2024
-- Dominate performance tests using K6. This talk is designed to unlock the potential of K6 in the field of load testing, ensuring that your applications can withstand real-world scenarios and are ready for any challenge.
-- [Link to video](https://youtu.be/dmgH5EsvWJw)
-
-### Full Stack Recruiter #2 - QA / Testing 
-**TomorrowDevs** - Online - 22 January 2024
-- [Get Ticket](https://www.tomorrowdevs.com/corso-fullstack-recruiter/)
-
-### Code, Creativity and Career: A journey through the world of Web Development
-**BitCamp** - Online - 13 December 2023
-- Webinar to delve into the dynamic world of web development. Ludovico will guide you through his journey from a hobbyist to a web professional, sharing his experiences, key technologies, and essential tools. Discover strategies for tackling technical interviews, building an impressive portfolio, and understanding the significance of open source and networking. This session is perfect for aspiring professionals seeking to broaden their skills and knowledge in web development.
-- [Link to video](https://www.facebook.com/bitcamp.it/videos/1166856111368102)
-
-### Road to Dev - Remote work and productivity
-**Codemotion** - Online - 30 November 2023
-- In this episode of Road To Dev, we explore the dynamics of remote work in the tech industry. The discussion will focus on tools and strategies for effective remote communication, setting up a productive work environment, and avoiding the pitfalls of procrastination
-- [Link to video](https://talks.codemotion.com/road-to-dev-lavoro-da-remoto-e-produttiv)
-
-### Playwright Under the Microscope
-**MilanoJS** - In presence - 21 November 2023
-- In this talk, explore Playwright, Microsoft's innovative tool for end-to-end testing. It distinguishes itself with multi-browser interaction and a unified API, surpassing traditional tools like Selenium. The talk covers Playwright's ability to simulate complex user interactions and support SPA and PWA testing, highlighting its real-world applications in e-commerce and integration with Storybook for enhanced visual testing. Practical aspects, including setup and advanced techniques, are discussed, offering a comprehensive view of Playwright's role in modern web application testing.
-- [Link to video](https://youtu.be/llqt1zOGPHg)
-
-### Full Stack Recruiter #1 - QA / Testing - Infiltrate in QA: Recruitment Mission
-**TomorrowDevs** - Online - 30 October 2023
-- In this talk, we delves into the world of Quality Assurance, highlighting its pivotal role in product development and user satisfaction. Designed for the Full Stack Recruiter course, the session illuminates various aspects of QA, from testing pyramids to essential skills, and navigates through the nuances of QA roles, offering vital insights for technical recruiters. Attendees will gain a comprehensive understanding of the QA landscape, equipping them with knowledge to effectively identify and recruit top talent in this critical field.
-- No recording available
-
-### Road To Dev - Building a personal brand online
-**Codemotion Conference Milan** - In presence - 24 October 2023
-- In this episode of Road To Dev, we dive into the world of online personal branding in the tech sector. We'll examine how to create a consistent and engaging digital identity across various channels, such as GitHub, LinkedIn, and your personal blog. We'll discuss positioning yourself as an expert in your field, choosing a niche, and the importance of quality content.Effective strategies and best practices for building a brand that stands out from the crowd and helps you create career opportunities will be shared.
-
-- [Talk page](https://community.codemotion.com/codemotion-italy/meetups/road-to-dev---costruire-un-brand-personale-online)
-
-### Leveraging Automated Testing Data to Enhance User Experience
-**Intersection Conference** - In presence - 10 October 2023
-- In the pursuit of exceptional user experiences, organizations often overlook a valuable resource: the data generated from automated testing.
-This talk explores the untapped potential of leveraging automated testing data to enhance user experience. We will discuss techniques for extracting insights from various types of automated tests and demonstrate how organizations have successfully used this data to address UX issues. Attendees will leave with practical strategies to integrate automated testing data into their UX design and development processes, enabling data-driven decision-making and measurable improvements in UX quality.
-- [Link to video](https://youtu.be/xbOrRp957RY)
-
-### Road To Dev: How to better manage your time
-**Codemotion** - Online - June 2023
-- In the third episode of "Road To Dev", we navigate the crucial aspect of time management in the tech industry. We will share strategies on how to optimize your time for increased productivity and job satisfaction, managing deadlines and everyday distractions, and maintaining a balance between work and personal life.
-- [Link to video](https://talks.codemotion.com/road-to-dev-come-gestire-al-meglio-il-pr)
-
-### Road to Dev - The importance of networking
-**Codemotion** - Online - May 2023
-- In the second episode of "Road To Dev", we delve into the crucial role of networking within the tech industry. We will guide you on how to establish and sustain a robust professional network in our sector, the benefits of active networking, and how you can leverage these connections to the best advantage in your career.
-- [Link to video](https://talks.codemotion.com/road-to-dev-limportanza-del-networking)
-
-### PlatformCon2023
-**PlatformCon2023** - Online - 08-09 June 2023
-- The top DevOps and platform engineering leaders on one virtual stage, for 2 days. Born to celebrate our community of 15k+ platform engineers 🔥
-- [Link](https://platformcon.com/speakers/ludovico-besana)
-
-### Road to Dev - Let's face job interviews
-**Codemotion** - Online - April 2023
-- In the first episode of "Road To Dev" we will explore the importance of preparing properly for job interviews in the tech world. Key concepts covered include preparation, documentation, researching the company, how to overcome the tough questions, and presenting your portfolio.
-- [Link to video](https://talks.codemotion.com/road-to-dev---affrontiamo-i-colloqui-di-)
-
-### Mastermind Testing
-**Start2impact** - Online - July 2021
-- "Mastermind Testing" is a collaborative meeting in which I shared my personal experience in the world of QA, exploring the landscape of software testing from manual to automated. We discussed the various types of tests, the transition from developer to QA Engineer, key roles within QA, and the use of the Robot Framework for automation. The goal is to provide practical insights and strategies to improve quality and efficiency in software testing.
-- No recording available
-
-### How NOT to Build a Community
-**Coding Bunker** - Online - April 2021
-- In this talk, attendees were immersed in the essentials of building or managing a community in the tech sector. The session provided a thorough overview of what it entails to forge a shared space for both enthusiasts and professionals. Emphasizing effective methods and cautioning against common missteps, the event served as a crucial guide for anyone looking to cultivate a vibrant tech community. 
-- No recording available
-
-### Panel Online - The business, this unknown: a bridge between dev and customer
-**Codemotion** - Online - March 2021
-- The relationship between customer-project-development is always tiring due to too many heads and different skills involved. A methodology of co-creation between dev, testing, business that outlines the development phases, makes the testing phase easier and can be traced back to the customer's needs.
-- [Link to video](https://talks.codemotion.com/panel-online---il-business-questo-sconos)
 
 ### See All Talks
 
