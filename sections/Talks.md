@@ -10,6 +10,11 @@
 **CypressConf 2025** - Online - 21 October 2025
 - [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
 
+### Modern Mobile Testing: Tools and Strategies to Avoid Bugs and Release with Confidence
+**Napoli DevFest 2025** - In presence - 11 October 2025
+- Critical bugs, unstable tests, and risky releases are daily challenges in mobile development. Effective testing is the key to ensuring reliable and performant applications. In this talk, we will explore advanced tools and strategies for writing solid tests, reducing the number of false positives and negatives, integrating testing into the development cycle, and preventing bugs before they reach users.
+- [Get Ticket](https://www.napolidevfest.it/)
+
 ### From Unit to E2E: Crafting a Bulletproof testing pipeline for React Apps
 **reactjsday 2025** - In presence - 16 October 2025
 - [Get Ticket](https://www.reactjsday.it/)
