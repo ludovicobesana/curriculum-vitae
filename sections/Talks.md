@@ -44,7 +44,7 @@
 | Leveraging Automated Testing Data to Enhance User Experience | Intersection Conference | 10 Oct 2023 | In presence | English | [Video](https://youtu.be/xbOrRp957RY) |
 | Road to Dev: How to Better Manage Your Time | Codemotion | Jun 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev-come-gestire-al-meglio-il-pr) |
 | Road to Dev - The Importance of Networking | Codemotion | May 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev-limportanza-del-networking) |
-| PlatformCon2023 | PlatformCon | 8–9 Jun 2023 | Online | English | [Link](https://platformcon.com/speakers/ludovico-besana) |
+| Working with a QAOps approach: Enhancing quality and efficiency in platform engineering | PlatformCon2023 | 8–9 Jun 2023 | Online | English | [Link](https://platformcon.com/speakers/ludovico-besana) |
 | Road to Dev - Let's Face Job Interviews | Codemotion | Apr 2023 | Online | Italian | [Video](https://talks.codemotion.com/road-to-dev---affrontiamo-i-colloqui-di-) |
 | Mastermind Testing | Start2impact | Jul 2021 | Online | Italian | — |
 | How NOT to Build a Community | Coding Bunker | Apr 2021 | Online | Italian | — |
