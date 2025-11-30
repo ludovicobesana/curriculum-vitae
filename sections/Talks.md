@@ -8,6 +8,7 @@
 
 | Title | Event | Date | Format | Language | Links |
 |-------|--------|------|---------|-----------|--------|
+| Blueprint to build quality before the code exists | StackConnect World Tour 2025 - Milan | 25 Nov 2025 | In presence | Italian | [Get Ticket](https://www.browserstack.com/webinars/stackconnect-world-tour-milan-nov-2025) |
 | Storybook for Frontend QA: Supercharging Component Testing and Development | BrowserStack Milan Meetup | 25 Nov 2025 | In presence | Italian | [Get Ticket](https://www.meetup.com/browserstack-software-testing-and-qa-meetup-group-milan/events/311975627/) |
 | Beyond Acceptance Criteria: Testing for inclusivity in agile teams | Italian Agile Days 2025 | 8 Nov 2025 | In presence | Italian | [Get Ticket](https://www.agileday.it/) |
 | Shift Left for Inclusion: Scalable accessibility testing with Cypress | CypressConf 2025 | 21 Oct 2025 | Online | English | [Get Ticket](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) |
