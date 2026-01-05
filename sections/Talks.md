@@ -8,6 +8,7 @@
 
 | Title | Event | Date | Format | Language | Links |
 |-------|--------|------|---------|-----------|--------|
+| Open Source API Testing with Bruno | Tech Meetup Day @ Milano | 19 Dec 2025 | In presence | Italian | [Get Ticket](https://arkemis.it/events/tech-meetup-day-milano-2025) |
 | Blueprint to build quality before the code exists | StackConnect World Tour 2025 - Milan | 25 Nov 2025 | In presence | Italian | [Get Ticket](https://www.browserstack.com/webinars/stackconnect-world-tour-milan-nov-2025) |
 | Storybook for Frontend QA: Supercharging Component Testing and Development | BrowserStack Milan Meetup | 25 Nov 2025 | In presence | Italian | [Get Ticket](https://www.meetup.com/browserstack-software-testing-and-qa-meetup-group-milan/events/311975627/) |
 | Beyond Acceptance Criteria: Testing for inclusivity in agile teams | Italian Agile Days 2025 | 8 Nov 2025 | In presence | Italian | [Get Ticket](https://www.agileday.it/) |
