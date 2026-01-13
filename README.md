@@ -9,7 +9,8 @@ The CV is structured as follows:
 - [Work Experience](/sections/Work-Experience.md)
 - [Skills](/sections/Skills.md)
 - [Talks and Presentations](/sections/Talks.md)
-- [Publications](/sections/Publications.md) 
+- [Publications](/sections/Publications.md)
+- [Awards](/sections/Awards.md)
 - [References](/sections/References.md)
 - [Certifications](/sections/Certifications.md)
 <!-- - [Projects](/sections/Projects.md) -->
