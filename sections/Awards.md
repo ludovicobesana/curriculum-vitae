@@ -2,6 +2,7 @@
 
 | Award | Organization | Year | Link |
 |-------|--------------|------|------|
+| Ambassador | GitKraken | 2026 | [View Website](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) |
 | Most Active Speaker | Sessionize | 2025 | [View Website](https://sessionize.com/most-active-speakers-2025/) |
 | Champion | Bruno | 2025 | [View Website](https://www.usebruno.com/) |
 | Champion | BrowserStack | 2024 | [View Website](https://www.browserstack.com/browserstack-champions) |
