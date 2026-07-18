@@ -25,6 +25,7 @@
 - **Utilities**: [JSONPath](https://jsonpath.com/), [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath), [DBeaver](https://dbeaver.io/), [Beekeeper Studio](https://www.beekeeperstudio.io/), [ResponsivelyApp](https://responsively.app/), [Browser DEV Tools](https://developer.chrome.com/docs/devtools/)
 - **Reporting & Test Management**: [Xray](https://www.getxray.app/), [TestRail](https://www.testrail.com/), [BrowserStack Test Management](https://www.browserstack.com/test-management)
 - **Cloud Testing Platforms**: [BrowserStack](http://browserstack.com/)
+- **Accessibility**: [VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) & [TalkBack](https://support.google.com/accessibility/android/answer/6283677) screen reader testing, [BrowserStack Accessibility Testing](https://www.browserstack.com/accessibility-testing), [axe DevTools](https://www.deque.com/axe/devtools/), [cypress-axe](https://github.com/component-driven/cypress-axe), [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/), [WAVE](https://wave.webaim.org/), WCAG 2.1/2.2 compliance
 
 #### Tools
 
