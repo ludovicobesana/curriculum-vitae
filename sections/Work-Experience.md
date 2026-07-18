@@ -1,7 +1,19 @@
 # Work Experience
 
+### QA Lead
+**Doctolib** - Milan, Italy (June 2026 - Present)
+
 ### Senior Test Engineer
-**Nearform** - Milan, Italy (April 2024 - Present)
+**Nearform** - Milan, Italy (April 2024 - May 2026)
+- Contributed to 4 enterprise Web and Mobile projects, collaborating with distributed cross-functional teams in Agile environments
+- Participated in a mobile healthcare project that won the “_Public Sector Project of the Year_” and “_Mobile Digital Health Resources 2025_” awards
+- Designed and maintained E2E, API, and mobile testing strategies to improve quality, reliability, and release confidence
+- Owned mobile E2E test suites using WebdriverIO, Maestro, TestRail, and BrowserStack
+- Implemented and validated REST and gRPC tests using SpecFlow, Postman, NUnit, and Podman
+- Collaborated with product and design teams to realign the mobile UI with the original functional requirements, improving consistency and user experience
+- Worked in regulated and high-criticality environments, with a focus on end-to-end testing, accessibility, and validation of core user flows
+- Contributed to internal open-source initiatives, technical writing, and Front-end and DevOps activities related to Quality Engineering
+- Built hands-on knowledge of Tricentis enterprise platforms, including Tosca, qTest, and NeoLoad
 
 ### QA Engineer
 **Banca AideXa** - Milan, Italy (April 2022 - April 2024)

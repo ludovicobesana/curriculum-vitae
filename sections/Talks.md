@@ -8,6 +8,9 @@
 
 | Title | Event | Date | Format | Language | Links |
 |-------|--------|------|---------|-----------|--------|
+| The Illusion of Speed: Why AI Governance Starts with Quality, Not the Model | Chief Artificial Intelligence Officer | 22 September 2026 | In presence | Italian | [Get Ticket](https://ikn.it/chief-ai-officer/) |
+| The Quality Paradox: Bridging the gap between engineering rigor and human experience | SQF2026 | 25 June 2026 | In presence | Italian | [Get Ticket](https://www.swqualityforum.org/) |
+| From Telemetry to Tests: Building Agentic QA Loops with MCP and Playwright | We Make Future 2026 | 24 June 2026 | In presence | Italian | [Get Ticket](https://www.wemakefuture.it/) |
 | Inspirational Talk with SheTech | SheTech for POLARIS project | 03 February 2026 | Online | Italian | — |
 | Inspirational Talk with SheTech | SheTech for POLARIS project | 14 January 2026 | Online | Italian | — |
 | Open Source API Testing with Bruno | Tech Meetup Day @ Milano | 19 Dec 2025 | In presence | Italian | [Get Ticket](https://arkemis.it/events/tech-meetup-day-milano-2025) |
