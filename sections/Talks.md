@@ -8,6 +8,8 @@
 
 | Title | Event | Date | Format | Language | Event Link | Video | Slides |
 |-------|--------|------|---------|-----------|-----------|-------|--------|
+| The Bug Bash Playbook: When Quality Stops Being a Silo | DevFest Modena 2026 | 3, 4 October 2026 | In presence | Italian | [Get Ticket](https://devfest.modena.it/) | — | — |
+| Beyond Autocomplete: Architecting Black-Box Agentic Testing | Oracolo del Test Meetup | 30 September 2026 | In presence | Italian | [Get Ticket](https://www.meetup.com/oracolo-del-test/events/315738175/) | — | — |
 | The Illusion of Speed: Why AI Governance Starts with Quality, Not the Model | Chief Artificial Intelligence Officer | 22 September 2026 | In presence | Italian | [Get Ticket](https://ikn.it/chief-ai-officer/) | — | — |
 | The Quality Paradox: Bridging the gap between engineering rigor and human experience | SQF2026 | 25 June 2026 | In presence | Italian | [Get Ticket](https://www.swqualityforum.org/) | — | — |
 | From Telemetry to Tests: Building Agentic QA Loops with MCP and Playwright | We Make Future 2026 | 24 June 2026 | In presence | Italian | [Get Ticket](https://www.wemakefuture.it/) | — | — |
