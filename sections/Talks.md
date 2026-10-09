@@ -9,6 +9,7 @@
 | Title | Event | Date | Format | Language | Event Link | Video | Slides |
 |-------|--------|------|---------|-----------|-----------|-------|--------|
 | The Bug Bash Playbook: When Quality Stops Being a Silo | DevFest Alps 2026 | 27, 28 November 2026 | In presence | Italian | [Get Ticket](https://devfestalps.gdgtorino.it/) | — | — |
+| The Bug Bash Playbook: When Quality Stops Being a Silo (Lightning talk version) | DevFest Milano 2026 | 10 October 2026 | In presence | Italian | [Get Ticket](https://2026.devfestmilano.it/it/) | — | — |
 | When AI Makes Every Dashboard Green: A Scorecard for Agentic QE | StackConnect Europe (Zurich) Edition | 6 October 2026 | In presence | English | [Get Ticket](https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026) | — | — |
 | The Bug Bash Playbook: When Quality Stops Being a Silo | DevFest Modena 2026 | 3, 4 October 2026 | In presence | Italian | [Get Ticket](https://devfest.modena.it/) | — | — |
 | Beyond Autocomplete: Architecting Black-Box Agentic Testing | Oracolo del Test Meetup | 30 September 2026 | In presence | Italian | [Get Ticket](https://www.meetup.com/oracolo-del-test/events/315738175/) | — | — |
