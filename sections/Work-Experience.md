@@ -39,7 +39,7 @@
 - Contributed to projects driving business growth.
 
 ### QA Engineer & Developer
-**Freelance** - Milan, Italy (January 2019 - Present)
+**Freelance** - Milan, Italy (January 2019 - December 2023)
 - Consulted on web and mobile projects and provided technical consultancy for startups.
 - Developed graphic design for websites and app interfaces.
 - Had expertise in e-commerce and PWA development.
