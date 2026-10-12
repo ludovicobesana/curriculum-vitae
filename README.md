@@ -10,6 +10,7 @@ The CV is structured as follows:
 - [Skills](/sections/Skills.md)
 - [Talks and Presentations](/sections/Talks.md)
 - [Publications](/sections/Publications.md)
+- [Media Features & Community Mentions](/sections/Media-Mentions.md)
 - [Awards](/sections/Awards.md)
 - [References](/sections/References.md)
 - [Certifications](/sections/Certifications.md)
