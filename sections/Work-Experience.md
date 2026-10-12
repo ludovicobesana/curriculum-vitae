@@ -2,6 +2,13 @@
 
 ### QA Lead
 **Doctolib** - Milan, Italy (June 2026 - Present)
+- Drove quality initiatives across three product teams, occasionally supporting a fourth, with a focus on teleconsultation, functional
+testing and accessibility.
+- Led quality improvements for teleconsultation workflows, prioritizing functional reliability, accessibility and user experience.
+- Coordinated QA priorities across three streams, at times supporting a fourth, while collaborating with product and
+engineering teams.
+- Improved QA processes and cross-team collaboration to surface product and release risks earlier.
+- Identified release-blocking issues before deployment, helping prevent critical defects from reaching users
 
 ### Senior Test Engineer
 **Nearform** - Milan, Italy (April 2024 - May 2026)
