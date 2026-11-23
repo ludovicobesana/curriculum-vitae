@@ -8,6 +8,7 @@
 
 | Title | Event | Date | Format | Language | Country | Event Link | Video | Slides |
 |-------|--------|------|---------|-----------|---------|-----------|-------|--------|
+| Debugging Modern Web Applications with Chrome DevTools | BrowserStack Meetup Milan | 1 December 2026 | In presence | Italian | Italy | [Get Ticket](https://luma.com/browse-vj7f) | — | — |
 | The Bug Bash Playbook: When Quality Stops Being a Silo | DevFest Alps 2026 | 27, 28 November 2026 | In presence | Italian | Italy | [Get Ticket](https://devfestalps.gdgtorino.it/) | — | — |
 | The Bug Bash Playbook: When Quality Stops Being a Silo (Lightning talk version) | DevFest Milano 2026 | 10 October 2026 | In presence | Italian | Italy | [Get Ticket](https://2026.devfestmilano.it/it/) | — | — |
 | When AI Makes Every Dashboard Green: A Scorecard for Agentic QE | StackConnect Europe (Zurich) Edition | 6 October 2026 | In presence | English | Switzerland | [Get Ticket](https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026) | — | — |
